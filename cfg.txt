@@ -1,0 +1,4 @@
+port=80
+jdbcurl=jdbc:mysql://localhost:3306/webdate?verifyServerCertificate=false&useSSL=false&requireSSL=false&useLegacyDatetimeCode=false&amp&serverTimezone=UTC
+login=root
+pass=1234
